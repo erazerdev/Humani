@@ -1,0 +1,22 @@
+newmtl _defaultMat
+Kd 1 1 1
+illum 2
+
+newmtl [Color_C16]
+Kd 0.4 0.2 0
+illum 2
+
+newmtl [Translucent_Glass_Safety]
+Kd 1 1 1
+Tr 0.5
+d 0.5
+illum 2
+
+newmtl [Color_K01]
+Kd 1 1 1
+illum 2
+
+newmtl [0044_DarkGoldenrod]
+Kd 0.7215686 0.5254902 0.04313726
+illum 2
+

@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: c9229218e4689604d95cbb3f0b4c7237
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 4c45e0f830c84e79e78c4b7563201042
+  longitude: -1.833
+  latitude: 52.5
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -22.710655, y: 16.453407, z: -32.983704}
+      lookAt: {x: -0.5638348, y: -1.66431, z: 3.1760037}
+      up: {x: 0.20521604, y: 0.91957605, z: 0.33506176}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BigSign
+    100002: //RootNode
+    100004: FlagPole
+    100006: FlagPole 1
+    100008: FrontTie
+    100010: FrontTie 1
+    100012: Group 2
+    100014: LongRope
+    100016: LongRope 1
+    100018: LongRope 2
+    100020: LongRope 3
+    100022: LongRope 4
+    100024: LongRope 5
+    100026: LongRope#1
+    100028: LongRope#1 1
+    100030: Pennant
+    100032: Pennant 1
+    100034: Performers Sign
+    100036: RoofEdge1
+    100038: RoofEdge1 1
+    100040: RoofEdge1 2
+    100042: RoofEdge1 3
+    100044: RoofEdge2
+    100046: RoofEdge2 1
+    100048: RoofEdge2 2
+    100050: RoofEdge2 3
+    100052: RoofEnd
+    100054: RoofEnd 1
+    100056: RoofSide
+    100058: RoofSide 1
+    100060: SideRope
+    100062: SideRope 1
+    100064: SideRope 10
+    100066: SideRope 11
+    100068: SideRope 12
+    100070: SideRope 13
+    100072: SideRope 14
+    100074: SideRope 15
+    100076: SideRope 16
+    100078: SideRope 17
+    100080: SideRope 18
+    100082: SideRope 19
+    100084: SideRope 2
+    100086: SideRope 20
+    100088: SideRope 21
+    100090: SideRope 22
+    100092: SideRope 23
+    100094: SideRope 24
+    100096: SideRope 25
+    100098: SideRope 3
+    100100: SideRope 4
+    100102: SideRope 5
+    100104: SideRope 6
+    100106: SideRope 7
+    100108: SideRope 8
+    100110: SideRope 9
+    100112: SignSide
+    100114: SignSide 1
+    100116: SmallSign
+    100118: SmallSign 1
+    100120: SmallSign 2
+    100122: SmallTentTie
+    100124: SmallTentTie 1
+    100126: SmallTentTie 2
+    100128: SmallTentTie 3
+    100130: SmallTentTie 4
+    100132: SmallTentTie 5
+    100134: SmallTentTie 6
+    100136: SmallTentTie 7
+    100138: Stake01
+    100140: Stake01 1
+    100142: Stake01 10
+    100144: Stake01 11
+    100146: Stake01 2
+    100148: Stake01 3
+    100150: Stake01 4
+    100152: Stake01 5
+    100154: Stake01 6
+    100156: Stake01 7
+    100158: Stake01 8
+    100160: Stake01 9
+    100162: TentTie0
+    100164: TentTie0 1
+    100166: TentTie0 10
+    100168: TentTie0 11
+    100170: TentTie0 2
+    100172: TentTie0 3
+    100174: TentTie0 4
+    100176: TentTie0 5
+    100178: TentTie0 6
+    100180: TentTie0 7
+    100182: TentTie0 8
+    100184: TentTie0 9
+    100186: TentTieWhite
+    100188: TentTieWhite 1
+    100190: TentTieWhite 10
+    100192: TentTieWhite 11
+    100194: TentTieWhite 2
+    100196: TentTieWhite 3
+    100198: TentTieWhite 4
+    100200: TentTieWhite 5
+    100202: TentTieWhite 6
+    100204: TentTieWhite 7
+    100206: TentTieWhite 8
+    100208: TentTieWhite 9
+    100210: TopRope
+    100212: TopTri01
+    100214: TopTri01 1
+    100216: TopTri01 2
+    100218: TopTri01 3
+    100220: TopTri02
+    100222: TopTri02 1
+    100224: TopTri02 2
+    100226: TopTri02 3
+    400000: BigSign
+    400002: //RootNode
+    400004: FlagPole
+    400006: FlagPole 1
+    400008: FrontTie
+    400010: FrontTie 1
+    400012: Group 2
+    400014: LongRope
+    400016: LongRope 1
+    400018: LongRope 2
+    400020: LongRope 3
+    400022: LongRope 4
+    400024: LongRope 5
+    400026: LongRope#1
+    400028: LongRope#1 1
+    400030: Pennant
+    400032: Pennant 1
+    400034: Performers Sign
+    400036: RoofEdge1
+    400038: RoofEdge1 1
+    400040: RoofEdge1 2
+    400042: RoofEdge1 3
+    400044: RoofEdge2
+    400046: RoofEdge2 1
+    400048: RoofEdge2 2
+    400050: RoofEdge2 3
+    400052: RoofEnd
+    400054: RoofEnd 1
+    400056: RoofSide
+    400058: RoofSide 1
+    400060: SideRope
+    400062: SideRope 1
+    400064: SideRope 10
+    400066: SideRope 11
+    400068: SideRope 12
+    400070: SideRope 13
+    400072: SideRope 14
+    400074: SideRope 15
+    400076: SideRope 16
+    400078: SideRope 17
+    400080: SideRope 18
+    400082: SideRope 19
+    400084: SideRope 2
+    400086: SideRope 20
+    400088: SideRope 21
+    400090: SideRope 22
+    400092: SideRope 23
+    400094: SideRope 24
+    400096: SideRope 25
+    400098: SideRope 3
+    400100: SideRope 4
+    400102: SideRope 5
+    400104: SideRope 6
+    400106: SideRope 7
+    400108: SideRope 8
+    400110: SideRope 9
+    400112: SignSide
+    400114: SignSide 1
+    400116: SmallSign
+    400118: SmallSign 1
+    400120: SmallSign 2
+    400122: SmallTentTie
+    400124: SmallTentTie 1
+    400126: SmallTentTie 2
+    400128: SmallTentTie 3
+    400130: SmallTentTie 4
+    400132: SmallTentTie 5
+    400134: SmallTentTie 6
+    400136: SmallTentTie 7
+    400138: Stake01
+    400140: Stake01 1
+    400142: Stake01 10
+    400144: Stake01 11
+    400146: Stake01 2
+    400148: Stake01 3
+    400150: Stake01 4
+    400152: Stake01 5
+    400154: Stake01 6
+    400156: Stake01 7
+    400158: Stake01 8
+    400160: Stake01 9
+    400162: TentTie0
+    400164: TentTie0 1
+    400166: TentTie0 10
+    400168: TentTie0 11
+    400170: TentTie0 2
+    400172: TentTie0 3
+    400174: TentTie0 4
+    400176: TentTie0 5
+    400178: TentTie0 6
+    400180: TentTie0 7
+    400182: TentTie0 8
+    400184: TentTie0 9
+    400186: TentTieWhite
+    400188: TentTieWhite 1
+    400190: TentTieWhite 10
+    400192: TentTieWhite 11
+    400194: TentTieWhite 2
+    400196: TentTieWhite 3
+    400198: TentTieWhite 4
+    400200: TentTieWhite 5
+    400202: TentTieWhite 6
+    400204: TentTieWhite 7
+    400206: TentTieWhite 8
+    400208: TentTieWhite 9
+    400210: TopRope
+    400212: TopTri01
+    400214: TopTri01 1
+    400216: TopTri01 2
+    400218: TopTri01 3
+    400220: TopTri02
+    400222: TopTri02 1
+    400224: TopTri02 2
+    400226: TopTri02 3
+    2100000: _defaultMat
+    2100002: TntDoor2
+    2100004: TentWhtB
+    2100006: TentRedB
+    2100008: TentWhtA
+    2100010: TentRedA
+    2100012: Post01
+    2100014: _Gray6_
+    2100016: TentGrnB
+    2100018: TentYelB
+    2100020: TentYel3
+    2100022: SignWood
+    2100024: SignBack
+    2100026: CircusSign01
+    2100028: TentRed2
+    2100030: TentWht2
+    2100032: Rope01
+    2100034: Stake01
+    2100036: Pennant0
+    2100038: Rope1
+    2100040: TentGrn2
+    2100042: TentYel2
+    2100044: Poster02
+    2100046: ClownSig
+    2300000: BigSign
+    2300002: //RootNode
+    2300004: FlagPole
+    2300006: FlagPole 1
+    2300008: FrontTie
+    2300010: FrontTie 1
+    2300012: LongRope
+    2300014: LongRope 1
+    2300016: LongRope 2
+    2300018: LongRope 3
+    2300020: LongRope 4
+    2300022: LongRope 5
+    2300024: LongRope#1
+    2300026: LongRope#1 1
+    2300028: Pennant
+    2300030: Pennant 1
+    2300032: Performers Sign
+    2300034: RoofEdge1
+    2300036: RoofEdge1 1
+    2300038: RoofEdge1 2
+    2300040: RoofEdge1 3
+    2300042: RoofEdge2
+    2300044: RoofEdge2 1
+    2300046: RoofEdge2 2
+    2300048: RoofEdge2 3
+    2300050: RoofEnd
+    2300052: RoofEnd 1
+    2300054: RoofSide
+    2300056: RoofSide 1
+    2300058: SideRope
+    2300060: SideRope 1
+    2300062: SideRope 10
+    2300064: SideRope 11
+    2300066: SideRope 12
+    2300068: SideRope 13
+    2300070: SideRope 14
+    2300072: SideRope 15
+    2300074: SideRope 16
+    2300076: SideRope 17
+    2300078: SideRope 18
+    2300080: SideRope 19
+    2300082: SideRope 2
+    2300084: SideRope 20
+    2300086: SideRope 21
+    2300088: SideRope 22
+    2300090: SideRope 23
+    2300092: SideRope 24
+    2300094: SideRope 25
+    2300096: SideRope 3
+    2300098: SideRope 4
+    2300100: SideRope 5
+    2300102: SideRope 6
+    2300104: SideRope 7
+    2300106: SideRope 8
+    2300108: SideRope 9
+    2300110: SignSide
+    2300112: SignSide 1
+    2300114: SmallSign
+    2300116: SmallSign 1
+    2300118: SmallSign 2
+    2300120: SmallTentTie
+    2300122: SmallTentTie 1
+    2300124: SmallTentTie 2
+    2300126: SmallTentTie 3
+    2300128: SmallTentTie 4
+    2300130: SmallTentTie 5
+    2300132: SmallTentTie 6
+    2300134: SmallTentTie 7
+    2300136: Stake01
+    2300138: Stake01 1
+    2300140: Stake01 10
+    2300142: Stake01 11
+    2300144: Stake01 2
+    2300146: Stake01 3
+    2300148: Stake01 4
+    2300150: Stake01 5
+    2300152: Stake01 6
+    2300154: Stake01 7
+    2300156: Stake01 8
+    2300158: Stake01 9
+    2300160: TentTie0
+    2300162: TentTie0 1
+    2300164: TentTie0 10
+    2300166: TentTie0 11
+    2300168: TentTie0 2
+    2300170: TentTie0 3
+    2300172: TentTie0 4
+    2300174: TentTie0 5
+    2300176: TentTie0 6
+    2300178: TentTie0 7
+    2300180: TentTie0 8
+    2300182: TentTie0 9
+    2300184: TentTieWhite
+    2300186: TentTieWhite 1
+    2300188: TentTieWhite 10
+    2300190: TentTieWhite 11
+    2300192: TentTieWhite 2
+    2300194: TentTieWhite 3
+    2300196: TentTieWhite 4
+    2300198: TentTieWhite 5
+    2300200: TentTieWhite 6
+    2300202: TentTieWhite 7
+    2300204: TentTieWhite 8
+    2300206: TentTieWhite 9
+    2300208: TopRope
+    2300210: TopTri01
+    2300212: TopTri01 1
+    2300214: TopTri01 2
+    2300216: TopTri01 3
+    2300218: TopTri02
+    2300220: TopTri02 1
+    2300222: TopTri02 2
+    2300224: TopTri02 3
+    3300000: BigSign
+    3300002: //RootNode
+    3300004: FlagPole
+    3300006: FlagPole 1
+    3300008: FrontTie
+    3300010: FrontTie 1
+    3300012: LongRope
+    3300014: LongRope 1
+    3300016: LongRope 2
+    3300018: LongRope 3
+    3300020: LongRope 4
+    3300022: LongRope 5
+    3300024: LongRope#1
+    3300026: LongRope#1 1
+    3300028: Pennant
+    3300030: Pennant 1
+    3300032: Performers Sign
+    3300034: RoofEdge1
+    3300036: RoofEdge1 1
+    3300038: RoofEdge1 2
+    3300040: RoofEdge1 3
+    3300042: RoofEdge2
+    3300044: RoofEdge2 1
+    3300046: RoofEdge2 2
+    3300048: RoofEdge2 3
+    3300050: RoofEnd
+    3300052: RoofEnd 1
+    3300054: RoofSide
+    3300056: RoofSide 1
+    3300058: SideRope
+    3300060: SideRope 1
+    3300062: SideRope 10
+    3300064: SideRope 11
+    3300066: SideRope 12
+    3300068: SideRope 13
+    3300070: SideRope 14
+    3300072: SideRope 15
+    3300074: SideRope 16
+    3300076: SideRope 17
+    3300078: SideRope 18
+    3300080: SideRope 19
+    3300082: SideRope 2
+    3300084: SideRope 20
+    3300086: SideRope 21
+    3300088: SideRope 22
+    3300090: SideRope 23
+    3300092: SideRope 24
+    3300094: SideRope 25
+    3300096: SideRope 3
+    3300098: SideRope 4
+    3300100: SideRope 5
+    3300102: SideRope 6
+    3300104: SideRope 7
+    3300106: SideRope 8
+    3300108: SideRope 9
+    3300110: SignSide
+    3300112: SignSide 1
+    3300114: SmallSign
+    3300116: SmallSign 1
+    3300118: SmallSign 2
+    3300120: SmallTentTie
+    3300122: SmallTentTie 1
+    3300124: SmallTentTie 2
+    3300126: SmallTentTie 3
+    3300128: SmallTentTie 4
+    3300130: SmallTentTie 5
+    3300132: SmallTentTie 6
+    3300134: SmallTentTie 7
+    3300136: Stake01
+    3300138: Stake01 1
+    3300140: Stake01 10
+    3300142: Stake01 11
+    3300144: Stake01 2
+    3300146: Stake01 3
+    3300148: Stake01 4
+    3300150: Stake01 5
+    3300152: Stake01 6
+    3300154: Stake01 7
+    3300156: Stake01 8
+    3300158: Stake01 9
+    3300160: TentTie0
+    3300162: TentTie0 1
+    3300164: TentTie0 10
+    3300166: TentTie0 11
+    3300168: TentTie0 2
+    3300170: TentTie0 3
+    3300172: TentTie0 4
+    3300174: TentTie0 5
+    3300176: TentTie0 6
+    3300178: TentTie0 7
+    3300180: TentTie0 8
+    3300182: TentTie0 9
+    3300184: TentTieWhite
+    3300186: TentTieWhite 1
+    3300188: TentTieWhite 10
+    3300190: TentTieWhite 11
+    3300192: TentTieWhite 2
+    3300194: TentTieWhite 3
+    3300196: TentTieWhite 4
+    3300198: TentTieWhite 5
+    3300200: TentTieWhite 6
+    3300202: TentTieWhite 7
+    3300204: TentTieWhite 8
+    3300206: TentTieWhite 9
+    3300208: TopRope
+    3300210: TopTri01
+    3300212: TopTri01 1
+    3300214: TopTri01 2
+    3300216: TopTri01 3
+    3300218: TopTri02
+    3300220: TopTri02 1
+    3300222: TopTri02 2
+    3300224: TopTri02 3
+    4300000: Mesh CircusSplendido01
+    4300002: Mesh SignSide
+    4300004: Mesh BigSign
+    4300006: Mesh TentTie0
+    4300008: Mesh FrontTie
+    4300010: Mesh TentTieWhite
+    4300012: Mesh RoofEnd
+    4300014: Mesh RoofSide
+    4300016: Mesh SideRope
+    4300018: Mesh SideRope
+    4300020: Mesh Stake01
+    4300022: Mesh LongRope
+    4300024: Mesh TopRope
+    4300026: Mesh LongRope#1
+    4300028: Mesh Pennant
+    4300030: Mesh FlagPole
+    4300032: Mesh SmallTentTie
+    4300034: Mesh TopTri02
+    4300036: Mesh TopTri01
+    4300038: Mesh RoofEdge2
+    4300040: Mesh RoofEdge1
+    4300042: Mesh SmallSign
+    4300044: Mesh Performers Sign
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+newmtl rusty 1
+Kd 0.754717 0 0
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl rusty
+Kd 0.1981132 0.1981132 0.1981132
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl gradinscirculairesv2_Color_A16_AlbedoTransparency
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl walls door
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl prototype
+Kd 1 1 1
+illum 2
+

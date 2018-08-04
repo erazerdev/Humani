@@ -1,0 +1,35 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.68452469)
+
+newmtl SignWood
+kd 1 1 1
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl _defaultMat
+kd 1 1 1
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl SignBack
+kd 1 1 1
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl CircusSign01
+kd 1 1 1
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+

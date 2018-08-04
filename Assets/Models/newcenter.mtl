@@ -1,0 +1,44 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.68452469)
+
+newmtl rusty
+kd 0.198113 0.198113 0.198113
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd null
+bump null
+map_bump null
+
+newmtl gradinscirculairesv2_Color_A16_AlbedoTransparency
+kd 1 1 1
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd null
+bump null
+map_bump null
+
+newmtl walls
+kd 1 1 1
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd null
+bump null
+map_bump null
+
+newmtl prototype
+kd 1 1 1
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+

@@ -1,0 +1,69 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.68452469)
+
+newmtl _Red_1
+kd 0.6 0 0
+ka 0 0 0
+ks 0.33 0.33 0.33
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Metal_Panel
+kd 0.741176 0.760784 0.776471
+ka 0 0 0
+ks 0.33 0.33 0.33
+ke 0 0 0
+d 1
+illum 1
+map_kd gradins100/Metal_Panel.jpg
+
+newmtl _DarkGray_
+kd 0.317647 0.317647 0.317647
+ka 0 0 0
+ks 0.33 0.33 0.33
+ke 0 0 0
+d 1
+illum 1
+
+newmtl _Red_
+kd 1 0 0
+ka 0 0 0
+ks 0.33 0.33 0.33
+ke 0 0 0
+d 1
+illum 1
+
+newmtl FrontColor
+kd 1 1 1
+ka 0 0 0
+ks 0.33 0.33 0.33
+ke 0 0 0
+d 1
+illum 1
+
+newmtl _Magenta_
+kd 1 0 1
+ka 0 0 0
+ks 0.33 0.33 0.33
+ke 0 0 0
+d 1
+illum 1
+
+newmtl _SeaGreen_
+kd 0.180392 0.545098 0.341176
+ka 0 0 0
+ks 0.33 0.33 0.33
+ke 0 0 0
+d 1
+illum 1
+
+newmtl _Metal_floor_
+kd 0.419608 0.431373 0.486275
+ka 0 0 0
+ks 0.33 0.33 0.33
+ke 0 0 0
+d 1
+illum 1
+map_kd gradins100/_Metal_floor_.jpg
+

@@ -1,0 +1,44 @@
+Devlog 20/06/18
+
+Choses faites: 
+Implémentation des gradins ✓ 
+Implémentation du modèle du cirque + tweaking ✓ 
+Layout du labyrinthe ✓ 
+Rideaux et derrière scène ✓
+Modélisation et animations de l'ennemi ✓
+
+Choses en cours:
+Texturing des assets ∿ (la plupart sont texturés, mais sont suceptible d'être modifiés/améliorés en cas de changement de direction artistique)
+Contrôle du personnage ∿ (le script n'étant pas terminé le script de base de unity sert de placeholder)
+Fixer le layout du labyrinthe ∿
+Script des lumières ∿
+Portes ∿ ( le modèle existe mais n'a ni de collisions ni d'animations, on passe pour l'instant simplement à travers, d'autres modèles vont être ajoutés)
+Centre du cirque / scène ∿ ( le centre est très basique, seulement les formes de base sans textures )
+
+Choses à faire:
+Implémenter l'ennemi 
+Créer une IA pour l'ennemi
+Lui ajouter un son de porc égorgé plus il s'approche
+Implémenter les animations
+Le mettre en idle parfois puis en course
+Ajouter des props un peu partout
+Choisir exactement le rendu graphique du jeu
+Meubler le labyrinthe avec des pièces spécifiques 
+Créer un thème pour le jeu et le faire ressentir ingame ( le thème est la maltraitance des animaux )
+Créer un gameplay de "cache cache" avec l'ennemi
+Créer un spawn et une sortie
+Améliorer le menu
+Rajouter de la musique ingame
+Améliorer/Rajouter des collisions
+Faire un script de mouvement avec du headbobbing sans jump ni sprint
+Record / prendre des sons
+Faire du playtesting pour decouvrir les bugs
+Régler les bugs
+Terminer la scène et lui donner une vraie atmosphère
+Implémenter l'obscurité ( déja testé en proto et ca fonctionne bien )
+Implémenter le gameplay : Aucune lampe torche, le personnage est dans l'obscurité et parfois des lumières déconne et s'allume de façon random a travers le niveau pour guider le joueur
+Implémenter le système de musique qui se joue dans le cirque, une sorte de son 3D
+Et pleins d'autres
+
+
+
