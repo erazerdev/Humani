@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: 1c8272d460e832241b9d744beb32798d
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000
+  assetHash:
+    serializedVersion: 2
+    Hash: bb41917e57a3f7485bca19952f4e5557
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 9.186646, y: 1.75375, z: 21.779938}
+      lookAt: {x: 21.278023, y: 0.25859305, z: 33.992813}
+      up: {x: 0.060978927, y: 0.9962369, z: 0.061591666}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 4 inch wide recessed ceiling light
+    100002: 4 inch wide recessed ceiling light 1
+    100004: 4 inch wide recessed ceiling light 10
+    100006: 4 inch wide recessed ceiling light 11
+    100008: 4 inch wide recessed ceiling light 12
+    100010: 4 inch wide recessed ceiling light 13
+    100012: 4 inch wide recessed ceiling light 14
+    100014: 4 inch wide recessed ceiling light 15
+    100016: 4 inch wide recessed ceiling light 16
+    100018: 4 inch wide recessed ceiling light 17
+    100020: 4 inch wide recessed ceiling light 18
+    100022: 4 inch wide recessed ceiling light 19
+    100024: 4 inch wide recessed ceiling light 2
+    100026: 4 inch wide recessed ceiling light 20
+    100028: 4 inch wide recessed ceiling light 21
+    100030: 4 inch wide recessed ceiling light 22
+    100032: 4 inch wide recessed ceiling light 23
+    100034: 4 inch wide recessed ceiling light 3
+    100036: 4 inch wide recessed ceiling light 4
+    100038: 4 inch wide recessed ceiling light 5
+    100040: 4 inch wide recessed ceiling light 6
+    100042: 4 inch wide recessed ceiling light 7
+    100044: 4 inch wide recessed ceiling light 8
+    100046: 4 inch wide recessed ceiling light 9
+    100048: Bank of 5 toilet stalls
+    100050: Bank of 5 toilet stalls 1
+    100052: Bank of 5 wall mounted urinals with dividers
+    100054: Component#1
+    100056: Component#1 1
+    100058: Component#1 10
+    100060: Component#1 11
+    100062: Component#1 12
+    100064: Component#1 13
+    100066: Component#1 14
+    100068: Component#1 2
+    100070: Component#1 3
+    100072: Component#1 4
+    100074: Component#1 5
+    100076: Component#1 6
+    100078: Component#1 7
+    100080: Component#1 8
+    100082: Component#1 9
+    100084: Component#2
+    100086: Divider
+    100088: Divider 1
+    100090: Divider 2
+    100092: Divider 3
+    100094: Divider 4
+    100096: Divider 5
+    100098: Faucet_Half
+    100100: Faucet_Half 1
+    100102: Faucet_Half 10
+    100104: Faucet_Half 11
+    100106: Faucet_Half 12
+    100108: Faucet_Half 13
+    100110: Faucet_Half 14
+    100112: Faucet_Half 15
+    100114: Faucet_Half 16
+    100116: Faucet_Half 17
+    100118: Faucet_Half 18
+    100120: Faucet_Half 19
+    100122: Faucet_Half 2
+    100124: Faucet_Half 3
+    100126: Faucet_Half 4
+    100128: Faucet_Half 5
+    100130: Faucet_Half 6
+    100132: Faucet_Half 7
+    100134: Faucet_Half 8
+    100136: Faucet_Half 9
+    100138: GENTS
+    100140: Group 108
+    100142: Group 110
+    100144: Group 117
+    100146: Group 126
+    100148: Group 128
+    100150: Group 13
+    100152: Group 135
+    100154: Group 144
+    100156: Group 146
+    100158: Group 15
+    100160: Group 153
+    100162: Group 162
+    100164: Group 164
+    100166: Group 171
+    100168: Group 184
+    100170: Group 186
+    100172: Group 22
+    100174: Group 31
+    100176: Group 33
+    100178: Group 4
+    100180: Group 40
+    100182: Group 49
+    100184: Group 51
+    100186: Group 58
+    100188: Group 67
+    100190: Group 69
+    100192: Group 76
+    100194: Group 89
+    100196: Group 91
+    100198: Group 99
+    100200: half
+    100202: half 1
+    100204: half 10
+    100206: half 11
+    100208: half 12
+    100210: half 13
+    100212: half 14
+    100214: half 15
+    100216: half 16
+    100218: half 17
+    100220: half 18
+    100222: half 19
+    100224: half 2
+    100226: half 3
+    100228: half 4
+    100230: half 5
+    100232: half 6
+    100234: half 7
+    100236: half 8
+    100238: half 9
+    100240: LADIES
+    100242: Metal Connector
+    100244: Metal Connector 1
+    100246: Metal Connector 10
+    100248: Metal Connector 11
+    100250: Metal Connector 12
+    100252: Metal Connector 13
+    100254: Metal Connector 14
+    100256: Metal Connector 15
+    100258: Metal Connector 16
+    100260: Metal Connector 17
+    100262: Metal Connector 18
+    100264: Metal Connector 19
+    100266: Metal Connector 2
+    100268: Metal Connector 20
+    100270: Metal Connector 21
+    100272: Metal Connector 22
+    100274: Metal Connector 23
+    100276: Metal Connector 3
+    100278: Metal Connector 4
+    100280: Metal Connector 5
+    100282: Metal Connector 6
+    100284: Metal Connector 7
+    100286: Metal Connector 8
+    100288: Metal Connector 9
+    100290: Modern rectangular sink
+    100292: Modern rectangular sink 1
+    100294: Modern rectangular sink 2
+    100296: Modern rectangular sink 3
+    100298: Modern rectangular sink 4
+    100300: Modern rectangular sink 5
+    100302: Modern rectangular sink 6
+    100304: Modern rectangular sink 7
+    100306: Modern rectangular sink 8
+    100308: Modern rectangular sink 9
+    100310: Plumbing
+    100312: Plumbing 1
+    100314: Plumbing 2
+    100316: Plumbing 3
+    100318: Plumbing 4
+    100320: //RootNode
+    100322: side
+    100324: side 1
+    100326: side 10
+    100328: side 11
+    100330: side 2
+    100332: side 3
+    100334: side 4
+    100336: side 5
+    100338: side 6
+    100340: side 7
+    100342: side 8
+    100344: side 9
+    100346: stall_door
+    100348: stall_door 1
+    100350: stall_door 2
+    100352: stall_door 3
+    100354: stall_door 4
+    100356: stall_door 5
+    100358: stall_door 6
+    100360: stall_door 7
+    100362: stall_door 8
+    100364: stall_door 9
+    100366: stall_with_toilet
+    100368: stall_with_toilet 1
+    100370: stall_with_toilet 2
+    100372: stall_with_toilet 3
+    100374: stall_with_toilet 4
+    100376: stall_with_toilet 5
+    100378: stall_with_toilet 6
+    100380: stall_with_toilet 7
+    100382: stall_with_toilet#2
+    100384: stall_with_toilet#2 1
+    100386: toilet_commercial
+    100388: toilet_commercial 1
+    100390: toilet_commercial 2
+    100392: toilet_commercial 3
+    100394: toilet_commercial 4
+    100396: toilet_commercial 5
+    100398: toilet_commercial 6
+    100400: toilet_commercial 7
+    100402: toilet_commercial 8
+    100404: toilet_commercial 9
+    100406: Urinal_Half
+    100408: Urinal_Half 1
+    100410: Urinal_Half 2
+    100412: Urinal_Half 3
+    100414: Urinal_Half 4
+    100416: Urinal_Half 5
+    100418: Urinal_Half 6
+    100420: Urinal_Half 7
+    100422: Urinal_Half 8
+    100424: Urinal_Half 9
+    100426: vertical support
+    100428: vertical support 1
+    100430: vertical support 10
+    100432: vertical support 11
+    100434: vertical support 2
+    100436: vertical support 3
+    100438: vertical support 4
+    100440: vertical support 5
+    100442: vertical support 6
+    100444: vertical support 7
+    100446: vertical support 8
+    100448: vertical support 9
+    400000: 4 inch wide recessed ceiling light
+    400002: 4 inch wide recessed ceiling light 1
+    400004: 4 inch wide recessed ceiling light 10
+    400006: 4 inch wide recessed ceiling light 11
+    400008: 4 inch wide recessed ceiling light 12
+    400010: 4 inch wide recessed ceiling light 13
+    400012: 4 inch wide recessed ceiling light 14
+    400014: 4 inch wide recessed ceiling light 15
+    400016: 4 inch wide recessed ceiling light 16
+    400018: 4 inch wide recessed ceiling light 17
+    400020: 4 inch wide recessed ceiling light 18
+    400022: 4 inch wide recessed ceiling light 19
+    400024: 4 inch wide recessed ceiling light 2
+    400026: 4 inch wide recessed ceiling light 20
+    400028: 4 inch wide recessed ceiling light 21
+    400030: 4 inch wide recessed ceiling light 22
+    400032: 4 inch wide recessed ceiling light 23
+    400034: 4 inch wide recessed ceiling light 3
+    400036: 4 inch wide recessed ceiling light 4
+    400038: 4 inch wide recessed ceiling light 5
+    400040: 4 inch wide recessed ceiling light 6
+    400042: 4 inch wide recessed ceiling light 7
+    400044: 4 inch wide recessed ceiling light 8
+    400046: 4 inch wide recessed ceiling light 9
+    400048: Bank of 5 toilet stalls
+    400050: Bank of 5 toilet stalls 1
+    400052: Bank of 5 wall mounted urinals with dividers
+    400054: Component#1
+    400056: Component#1 1
+    400058: Component#1 10
+    400060: Component#1 11
+    400062: Component#1 12
+    400064: Component#1 13
+    400066: Component#1 14
+    400068: Component#1 2
+    400070: Component#1 3
+    400072: Component#1 4
+    400074: Component#1 5
+    400076: Component#1 6
+    400078: Component#1 7
+    400080: Component#1 8
+    400082: Component#1 9
+    400084: Component#2
+    400086: Divider
+    400088: Divider 1
+    400090: Divider 2
+    400092: Divider 3
+    400094: Divider 4
+    400096: Divider 5
+    400098: Faucet_Half
+    400100: Faucet_Half 1
+    400102: Faucet_Half 10
+    400104: Faucet_Half 11
+    400106: Faucet_Half 12
+    400108: Faucet_Half 13
+    400110: Faucet_Half 14
+    400112: Faucet_Half 15
+    400114: Faucet_Half 16
+    400116: Faucet_Half 17
+    400118: Faucet_Half 18
+    400120: Faucet_Half 19
+    400122: Faucet_Half 2
+    400124: Faucet_Half 3
+    400126: Faucet_Half 4
+    400128: Faucet_Half 5
+    400130: Faucet_Half 6
+    400132: Faucet_Half 7
+    400134: Faucet_Half 8
+    400136: Faucet_Half 9
+    400138: GENTS
+    400140: Group 108
+    400142: Group 110
+    400144: Group 117
+    400146: Group 126
+    400148: Group 128
+    400150: Group 13
+    400152: Group 135
+    400154: Group 144
+    400156: Group 146
+    400158: Group 15
+    400160: Group 153
+    400162: Group 162
+    400164: Group 164
+    400166: Group 171
+    400168: Group 184
+    400170: Group 186
+    400172: Group 22
+    400174: Group 31
+    400176: Group 33
+    400178: Group 4
+    400180: Group 40
+    400182: Group 49
+    400184: Group 51
+    400186: Group 58
+    400188: Group 67
+    400190: Group 69
+    400192: Group 76
+    400194: Group 89
+    400196: Group 91
+    400198: Group 99
+    400200: half
+    400202: half 1
+    400204: half 10
+    400206: half 11
+    400208: half 12
+    400210: half 13
+    400212: half 14
+    400214: half 15
+    400216: half 16
+    400218: half 17
+    400220: half 18
+    400222: half 19
+    400224: half 2
+    400226: half 3
+    400228: half 4
+    400230: half 5
+    400232: half 6
+    400234: half 7
+    400236: half 8
+    400238: half 9
+    400240: LADIES
+    400242: Metal Connector
+    400244: Metal Connector 1
+    400246: Metal Connector 10
+    400248: Metal Connector 11
+    400250: Metal Connector 12
+    400252: Metal Connector 13
+    400254: Metal Connector 14
+    400256: Metal Connector 15
+    400258: Metal Connector 16
+    400260: Metal Connector 17
+    400262: Metal Connector 18
+    400264: Metal Connector 19
+    400266: Metal Connector 2
+    400268: Metal Connector 20
+    400270: Metal Connector 21
+    400272: Metal Connector 22
+    400274: Metal Connector 23
+    400276: Metal Connector 3
+    400278: Metal Connector 4
+    400280: Metal Connector 5
+    400282: Metal Connector 6
+    400284: Metal Connector 7
+    400286: Metal Connector 8
+    400288: Metal Connector 9
+    400290: Modern rectangular sink
+    400292: Modern rectangular sink 1
+    400294: Modern rectangular sink 2
+    400296: Modern rectangular sink 3
+    400298: Modern rectangular sink 4
+    400300: Modern rectangular sink 5
+    400302: Modern rectangular sink 6
+    400304: Modern rectangular sink 7
+    400306: Modern rectangular sink 8
+    400308: Modern rectangular sink 9
+    400310: Plumbing
+    400312: Plumbing 1
+    400314: Plumbing 2
+    400316: Plumbing 3
+    400318: Plumbing 4
+    400320: //RootNode
+    400322: side
+    400324: side 1
+    400326: side 10
+    400328: side 11
+    400330: side 2
+    400332: side 3
+    400334: side 4
+    400336: side 5
+    400338: side 6
+    400340: side 7
+    400342: side 8
+    400344: side 9
+    400346: stall_door
+    400348: stall_door 1
+    400350: stall_door 2
+    400352: stall_door 3
+    400354: stall_door 4
+    400356: stall_door 5
+    400358: stall_door 6
+    400360: stall_door 7
+    400362: stall_door 8
+    400364: stall_door 9
+    400366: stall_with_toilet
+    400368: stall_with_toilet 1
+    400370: stall_with_toilet 2
+    400372: stall_with_toilet 3
+    400374: stall_with_toilet 4
+    400376: stall_with_toilet 5
+    400378: stall_with_toilet 6
+    400380: stall_with_toilet 7
+    400382: stall_with_toilet#2
+    400384: stall_with_toilet#2 1
+    400386: toilet_commercial
+    400388: toilet_commercial 1
+    400390: toilet_commercial 2
+    400392: toilet_commercial 3
+    400394: toilet_commercial 4
+    400396: toilet_commercial 5
+    400398: toilet_commercial 6
+    400400: toilet_commercial 7
+    400402: toilet_commercial 8
+    400404: toilet_commercial 9
+    400406: Urinal_Half
+    400408: Urinal_Half 1
+    400410: Urinal_Half 2
+    400412: Urinal_Half 3
+    400414: Urinal_Half 4
+    400416: Urinal_Half 5
+    400418: Urinal_Half 6
+    400420: Urinal_Half 7
+    400422: Urinal_Half 8
+    400424: Urinal_Half 9
+    400426: vertical support
+    400428: vertical support 1
+    400430: vertical support 10
+    400432: vertical support 11
+    400434: vertical support 2
+    400436: vertical support 3
+    400438: vertical support 4
+    400440: vertical support 5
+    400442: vertical support 6
+    400444: vertical support 7
+    400446: vertical support 8
+    400448: vertical support 9
+    2100000: _defaultMat
+    2100002: '[Stone_Sandstone_Ashlar_Light]'
+    2100004: '[Blinds_Wood_Natural]'
+    2100006: '[Tile_Ceramic_Natural]'
+    2100008: '[Blinds_Cloth_Horizontal]'
+    2100010: _LightGray_
+    2100012: _Ivory_
+    2100014: LightGray
+    2100016: Ivory
+    2100018: _Gainsboro_
+    2300000: 4 inch wide recessed ceiling light
+    2300002: 4 inch wide recessed ceiling light 1
+    2300004: 4 inch wide recessed ceiling light 10
+    2300006: 4 inch wide recessed ceiling light 11
+    2300008: 4 inch wide recessed ceiling light 12
+    2300010: 4 inch wide recessed ceiling light 13
+    2300012: 4 inch wide recessed ceiling light 14
+    2300014: 4 inch wide recessed ceiling light 15
+    2300016: 4 inch wide recessed ceiling light 16
+    2300018: 4 inch wide recessed ceiling light 17
+    2300020: 4 inch wide recessed ceiling light 18
+    2300022: 4 inch wide recessed ceiling light 19
+    2300024: 4 inch wide recessed ceiling light 2
+    2300026: 4 inch wide recessed ceiling light 20
+    2300028: 4 inch wide recessed ceiling light 21
+    2300030: 4 inch wide recessed ceiling light 22
+    2300032: 4 inch wide recessed ceiling light 23
+    2300034: 4 inch wide recessed ceiling light 3
+    2300036: 4 inch wide recessed ceiling light 4
+    2300038: 4 inch wide recessed ceiling light 5
+    2300040: 4 inch wide recessed ceiling light 6
+    2300042: 4 inch wide recessed ceiling light 7
+    2300044: 4 inch wide recessed ceiling light 8
+    2300046: 4 inch wide recessed ceiling light 9
+    2300048: Component#1
+    2300050: Component#1 1
+    2300052: Component#1 10
+    2300054: Component#1 11
+    2300056: Component#1 12
+    2300058: Component#1 13
+    2300060: Component#1 14
+    2300062: Component#1 2
+    2300064: Component#1 3
+    2300066: Component#1 4
+    2300068: Component#1 5
+    2300070: Component#1 6
+    2300072: Component#1 7
+    2300074: Component#1 8
+    2300076: Component#1 9
+    2300078: Component#2
+    2300080: Divider
+    2300082: Divider 1
+    2300084: Divider 2
+    2300086: Divider 3
+    2300088: Divider 4
+    2300090: Divider 5
+    2300092: Faucet_Half
+    2300094: Faucet_Half 1
+    2300096: Faucet_Half 10
+    2300098: Faucet_Half 11
+    2300100: Faucet_Half 12
+    2300102: Faucet_Half 13
+    2300104: Faucet_Half 14
+    2300106: Faucet_Half 15
+    2300108: Faucet_Half 16
+    2300110: Faucet_Half 17
+    2300112: Faucet_Half 18
+    2300114: Faucet_Half 19
+    2300116: Faucet_Half 2
+    2300118: Faucet_Half 3
+    2300120: Faucet_Half 4
+    2300122: Faucet_Half 5
+    2300124: Faucet_Half 6
+    2300126: Faucet_Half 7
+    2300128: Faucet_Half 8
+    2300130: Faucet_Half 9
+    2300132: GENTS
+    2300134: Group 108
+    2300136: Group 110
+    2300138: Group 117
+    2300140: Group 126
+    2300142: Group 128
+    2300144: Group 13
+    2300146: Group 135
+    2300148: Group 144
+    2300150: Group 146
+    2300152: Group 15
+    2300154: Group 153
+    2300156: Group 162
+    2300158: Group 164
+    2300160: Group 171
+    2300162: Group 184
+    2300164: Group 186
+    2300166: Group 22
+    2300168: Group 31
+    2300170: Group 33
+    2300172: Group 4
+    2300174: Group 40
+    2300176: Group 49
+    2300178: Group 51
+    2300180: Group 58
+    2300182: Group 67
+    2300184: Group 69
+    2300186: Group 76
+    2300188: Group 89
+    2300190: Group 91
+    2300192: Group 99
+    2300194: half
+    2300196: half 1
+    2300198: half 10
+    2300200: half 11
+    2300202: half 12
+    2300204: half 13
+    2300206: half 14
+    2300208: half 15
+    2300210: half 16
+    2300212: half 17
+    2300214: half 18
+    2300216: half 19
+    2300218: half 2
+    2300220: half 3
+    2300222: half 4
+    2300224: half 5
+    2300226: half 6
+    2300228: half 7
+    2300230: half 8
+    2300232: half 9
+    2300234: LADIES
+    2300236: Metal Connector
+    2300238: Metal Connector 1
+    2300240: Metal Connector 10
+    2300242: Metal Connector 11
+    2300244: Metal Connector 12
+    2300246: Metal Connector 13
+    2300248: Metal Connector 14
+    2300250: Metal Connector 15
+    2300252: Metal Connector 16
+    2300254: Metal Connector 17
+    2300256: Metal Connector 18
+    2300258: Metal Connector 19
+    2300260: Metal Connector 2
+    2300262: Metal Connector 20
+    2300264: Metal Connector 21
+    2300266: Metal Connector 22
+    2300268: Metal Connector 23
+    2300270: Metal Connector 3
+    2300272: Metal Connector 4
+    2300274: Metal Connector 5
+    2300276: Metal Connector 6
+    2300278: Metal Connector 7
+    2300280: Metal Connector 8
+    2300282: Metal Connector 9
+    2300284: Modern rectangular sink
+    2300286: Modern rectangular sink 1
+    2300288: Modern rectangular sink 2
+    2300290: Modern rectangular sink 3
+    2300292: Modern rectangular sink 4
+    2300294: Modern rectangular sink 5
+    2300296: Modern rectangular sink 6
+    2300298: Modern rectangular sink 7
+    2300300: Modern rectangular sink 8
+    2300302: Modern rectangular sink 9
+    2300304: Plumbing
+    2300306: Plumbing 1
+    2300308: Plumbing 2
+    2300310: Plumbing 3
+    2300312: Plumbing 4
+    2300314: //RootNode
+    2300316: side
+    2300318: side 1
+    2300320: side 10
+    2300322: side 11
+    2300324: side 2
+    2300326: side 3
+    2300328: side 4
+    2300330: side 5
+    2300332: side 6
+    2300334: side 7
+    2300336: side 8
+    2300338: side 9
+    2300340: stall_door
+    2300342: stall_door 1
+    2300344: stall_door 2
+    2300346: stall_door 3
+    2300348: stall_door 4
+    2300350: stall_door 5
+    2300352: stall_door 6
+    2300354: stall_door 7
+    2300356: stall_door 8
+    2300358: stall_door 9
+    2300360: Urinal_Half
+    2300362: Urinal_Half 1
+    2300364: Urinal_Half 2
+    2300366: Urinal_Half 3
+    2300368: Urinal_Half 4
+    2300370: Urinal_Half 5
+    2300372: Urinal_Half 6
+    2300374: Urinal_Half 7
+    2300376: Urinal_Half 8
+    2300378: Urinal_Half 9
+    2300380: vertical support
+    2300382: vertical support 1
+    2300384: vertical support 10
+    2300386: vertical support 11
+    2300388: vertical support 2
+    2300390: vertical support 3
+    2300392: vertical support 4
+    2300394: vertical support 5
+    2300396: vertical support 6
+    2300398: vertical support 7
+    2300400: vertical support 8
+    2300402: vertical support 9
+    3300000: 4 inch wide recessed ceiling light
+    3300002: 4 inch wide recessed ceiling light 1
+    3300004: 4 inch wide recessed ceiling light 10
+    3300006: 4 inch wide recessed ceiling light 11
+    3300008: 4 inch wide recessed ceiling light 12
+    3300010: 4 inch wide recessed ceiling light 13
+    3300012: 4 inch wide recessed ceiling light 14
+    3300014: 4 inch wide recessed ceiling light 15
+    3300016: 4 inch wide recessed ceiling light 16
+    3300018: 4 inch wide recessed ceiling light 17
+    3300020: 4 inch wide recessed ceiling light 18
+    3300022: 4 inch wide recessed ceiling light 19
+    3300024: 4 inch wide recessed ceiling light 2
+    3300026: 4 inch wide recessed ceiling light 20
+    3300028: 4 inch wide recessed ceiling light 21
+    3300030: 4 inch wide recessed ceiling light 22
+    3300032: 4 inch wide recessed ceiling light 23
+    3300034: 4 inch wide recessed ceiling light 3
+    3300036: 4 inch wide recessed ceiling light 4
+    3300038: 4 inch wide recessed ceiling light 5
+    3300040: 4 inch wide recessed ceiling light 6
+    3300042: 4 inch wide recessed ceiling light 7
+    3300044: 4 inch wide recessed ceiling light 8
+    3300046: 4 inch wide recessed ceiling light 9
+    3300048: Component#1
+    3300050: Component#1 1
+    3300052: Component#1 10
+    3300054: Component#1 11
+    3300056: Component#1 12
+    3300058: Component#1 13
+    3300060: Component#1 14
+    3300062: Component#1 2
+    3300064: Component#1 3
+    3300066: Component#1 4
+    3300068: Component#1 5
+    3300070: Component#1 6
+    3300072: Component#1 7
+    3300074: Component#1 8
+    3300076: Component#1 9
+    3300078: Component#2
+    3300080: Divider
+    3300082: Divider 1
+    3300084: Divider 2
+    3300086: Divider 3
+    3300088: Divider 4
+    3300090: Divider 5
+    3300092: Faucet_Half
+    3300094: Faucet_Half 1
+    3300096: Faucet_Half 10
+    3300098: Faucet_Half 11
+    3300100: Faucet_Half 12
+    3300102: Faucet_Half 13
+    3300104: Faucet_Half 14
+    3300106: Faucet_Half 15
+    3300108: Faucet_Half 16
+    3300110: Faucet_Half 17
+    3300112: Faucet_Half 18
+    3300114: Faucet_Half 19
+    3300116: Faucet_Half 2
+    3300118: Faucet_Half 3
+    3300120: Faucet_Half 4
+    3300122: Faucet_Half 5
+    3300124: Faucet_Half 6
+    3300126: Faucet_Half 7
+    3300128: Faucet_Half 8
+    3300130: Faucet_Half 9
+    3300132: GENTS
+    3300134: Group 108
+    3300136: Group 110
+    3300138: Group 117
+    3300140: Group 126
+    3300142: Group 128
+    3300144: Group 13
+    3300146: Group 135
+    3300148: Group 144
+    3300150: Group 146
+    3300152: Group 15
+    3300154: Group 153
+    3300156: Group 162
+    3300158: Group 164
+    3300160: Group 171
+    3300162: Group 184
+    3300164: Group 186
+    3300166: Group 22
+    3300168: Group 31
+    3300170: Group 33
+    3300172: Group 4
+    3300174: Group 40
+    3300176: Group 49
+    3300178: Group 51
+    3300180: Group 58
+    3300182: Group 67
+    3300184: Group 69
+    3300186: Group 76
+    3300188: Group 89
+    3300190: Group 91
+    3300192: Group 99
+    3300194: half
+    3300196: half 1
+    3300198: half 10
+    3300200: half 11
+    3300202: half 12
+    3300204: half 13
+    3300206: half 14
+    3300208: half 15
+    3300210: half 16
+    3300212: half 17
+    3300214: half 18
+    3300216: half 19
+    3300218: half 2
+    3300220: half 3
+    3300222: half 4
+    3300224: half 5
+    3300226: half 6
+    3300228: half 7
+    3300230: half 8
+    3300232: half 9
+    3300234: LADIES
+    3300236: Metal Connector
+    3300238: Metal Connector 1
+    3300240: Metal Connector 10
+    3300242: Metal Connector 11
+    3300244: Metal Connector 12
+    3300246: Metal Connector 13
+    3300248: Metal Connector 14
+    3300250: Metal Connector 15
+    3300252: Metal Connector 16
+    3300254: Metal Connector 17
+    3300256: Metal Connector 18
+    3300258: Metal Connector 19
+    3300260: Metal Connector 2
+    3300262: Metal Connector 20
+    3300264: Metal Connector 21
+    3300266: Metal Connector 22
+    3300268: Metal Connector 23
+    3300270: Metal Connector 3
+    3300272: Metal Connector 4
+    3300274: Metal Connector 5
+    3300276: Metal Connector 6
+    3300278: Metal Connector 7
+    3300280: Metal Connector 8
+    3300282: Metal Connector 9
+    3300284: Modern rectangular sink
+    3300286: Modern rectangular sink 1
+    3300288: Modern rectangular sink 2
+    3300290: Modern rectangular sink 3
+    3300292: Modern rectangular sink 4
+    3300294: Modern rectangular sink 5
+    3300296: Modern rectangular sink 6
+    3300298: Modern rectangular sink 7
+    3300300: Modern rectangular sink 8
+    3300302: Modern rectangular sink 9
+    3300304: Plumbing
+    3300306: Plumbing 1
+    3300308: Plumbing 2
+    3300310: Plumbing 3
+    3300312: Plumbing 4
+    3300314: //RootNode
+    3300316: side
+    3300318: side 1
+    3300320: side 10
+    3300322: side 11
+    3300324: side 2
+    3300326: side 3
+    3300328: side 4
+    3300330: side 5
+    3300332: side 6
+    3300334: side 7
+    3300336: side 8
+    3300338: side 9
+    3300340: stall_door
+    3300342: stall_door 1
+    3300344: stall_door 2
+    3300346: stall_door 3
+    3300348: stall_door 4
+    3300350: stall_door 5
+    3300352: stall_door 6
+    3300354: stall_door 7
+    3300356: stall_door 8
+    3300358: stall_door 9
+    3300360: Urinal_Half
+    3300362: Urinal_Half 1
+    3300364: Urinal_Half 2
+    3300366: Urinal_Half 3
+    3300368: Urinal_Half 4
+    3300370: Urinal_Half 5
+    3300372: Urinal_Half 6
+    3300374: Urinal_Half 7
+    3300376: Urinal_Half 8
+    3300378: Urinal_Half 9
+    3300380: vertical support
+    3300382: vertical support 1
+    3300384: vertical support 10
+    3300386: vertical support 11
+    3300388: vertical support 2
+    3300390: vertical support 3
+    3300392: vertical support 4
+    3300394: vertical support 5
+    3300396: vertical support 6
+    3300398: vertical support 7
+    3300400: vertical support 8
+    3300402: vertical support 9
+    4300000: Mesh Restroom
+    4300002: Mesh Group 4
+    4300004: Mesh vertical support
+    4300006: Mesh side
+    4300008: Mesh stall_door
+    4300010: Mesh Group 13
+    4300012: Mesh Group 15
+    4300014: Mesh half
+    4300016: Mesh Plumbing
+    4300018: Mesh Component#1
+    4300020: Mesh Divider
+    4300022: Mesh Metal Connector
+    4300024: Mesh Urinal_Half
+    4300026: Mesh Modern rectangular sink
+    4300028: Mesh Faucet_Half
+    4300030: Mesh Component#2
+    4300032: Mesh 4 inch wide recessed ceiling light
+    4300034: Mesh GENTS
+    4300036: Mesh LADIES
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
