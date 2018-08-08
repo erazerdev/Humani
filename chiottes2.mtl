@@ -1,0 +1,8 @@
+newmtl ch
+Kd 1 1 1
+illum 2
+
+newmtl Restroom
+Kd 0.6037736 0.6037736 0.6037736
+illum 2
+

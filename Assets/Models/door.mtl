@@ -1,0 +1,31 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.68452469)
+
+newmtl Fence_1
+kd 0.110294 0.041422 0.004055
+ka 1 1 1
+ks 0.5 0.5 0.5
+ke 0 0 0
+d 1
+Ns 384.314
+illum 2
+map_kd C:\null
+
+newmtl blinn1
+kd 0.528302 0.528302 0.528302
+ka 1 1 1
+ks 1 1 1
+ke 0 0 0
+d 0.559
+Ns 384.314
+illum 2
+
+newmtl knobtexture
+kd 0.568 0.521112 0.20732
+ka 1 1 1
+ks 1 1 1
+ke 0 0 0
+d 1
+Ns 384.314
+illum 2
+
