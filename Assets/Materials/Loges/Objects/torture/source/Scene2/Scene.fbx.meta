@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: e18886352df0d92428da41c36cfd0748
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CameraActor_3
+    100002: Chair_GEO_Chair_Back_13
+    100004: Chair_GEO_Chair_Legs_15
+    100006: Chair_GEO_Chair_Seat_17
+    100008: Cigarette_Ashtrasy_15
+    100010: Cigarette_Cigarette_17
+    100012: Cube_23
+    100014: GEO_Chair_Back
+    100016: GEO_Chair_Legs
+    100018: GEO_Chair_Seat
+    100020: GEO_TableCart_Frame_001
+    100022: GEO_TableCart_Frame_002
+    100024: GEO_TableCart_Lower_Braces_001
+    100026: GEO_TableCart_Skeleton
+    100028: GEO_TableCart_Upper_Braces_001
+    100030: GEO_TableCart_Upper_Wood_Surface_001
+    100032: GEO_TableCart_Upper_Wood_Surface_002
+    100034: GEO_TableCart_Wheels
+    100036: GEO_TableCart_Wheels_002
+    100038: GEO_TableCart_Wheels_Hardware_001
+    100040: GEO_TableCart_Wheels_Hardware_002
+    100042: GroupActor_3
+    100044: Lamp_20
+    100046: //RootNode
+    100048: SkeletalMeshComponent0
+    100050: SkeletalMeshComponent0 1
+    100052: SkeletalMeshComponent0 10
+    100054: SkeletalMeshComponent0 11
+    100056: SkeletalMeshComponent0 12
+    100058: SkeletalMeshComponent0 13
+    100060: SkeletalMeshComponent0 2
+    100062: SkeletalMeshComponent0 3
+    100064: SkeletalMeshComponent0 4
+    100066: SkeletalMeshComponent0 5
+    100068: SkeletalMeshComponent0 6
+    100070: SkeletalMeshComponent0 7
+    100072: SkeletalMeshComponent0 8
+    100074: SkeletalMeshComponent0 9
+    100076: SpotLight_1
+    100078: Table_GEO_TableCart_Frame_001_34
+    100080: Table_GEO_TableCart_Frame_002_36
+    100082: Table_GEO_TableCart_Lower_Braces_001_38
+    100084: Table_GEO_TableCart_Skeleton_40
+    100086: Table_GEO_TableCart_Upper_Braces_001_42
+    100088: Table_GEO_TableCart_Upper_Wood_Surface_001_44
+    100090: Table_GEO_TableCart_Upper_Wood_Surface_002_46
+    100092: Table_GEO_TableCart_Wheels_002_50
+    100094: Table_GEO_TableCart_Wheels_48
+    100096: Table_GEO_TableCart_Wheels_Hardware_001_52
+    100098: Table_GEO_TableCart_Wheels_Hardware_002_54
+    400000: CameraActor_3
+    400002: Chair_GEO_Chair_Back_13
+    400004: Chair_GEO_Chair_Legs_15
+    400006: Chair_GEO_Chair_Seat_17
+    400008: Cigarette_Ashtrasy_15
+    400010: Cigarette_Cigarette_17
+    400012: Cube_23
+    400014: GEO_Chair_Back
+    400016: GEO_Chair_Legs
+    400018: GEO_Chair_Seat
+    400020: GEO_TableCart_Frame_001
+    400022: GEO_TableCart_Frame_002
+    400024: GEO_TableCart_Lower_Braces_001
+    400026: GEO_TableCart_Skeleton
+    400028: GEO_TableCart_Upper_Braces_001
+    400030: GEO_TableCart_Upper_Wood_Surface_001
+    400032: GEO_TableCart_Upper_Wood_Surface_002
+    400034: GEO_TableCart_Wheels
+    400036: GEO_TableCart_Wheels_002
+    400038: GEO_TableCart_Wheels_Hardware_001
+    400040: GEO_TableCart_Wheels_Hardware_002
+    400042: GroupActor_3
+    400044: Lamp_20
+    400046: //RootNode
+    400048: SkeletalMeshComponent0
+    400050: SkeletalMeshComponent0 1
+    400052: SkeletalMeshComponent0 10
+    400054: SkeletalMeshComponent0 11
+    400056: SkeletalMeshComponent0 12
+    400058: SkeletalMeshComponent0 13
+    400060: SkeletalMeshComponent0 2
+    400062: SkeletalMeshComponent0 3
+    400064: SkeletalMeshComponent0 4
+    400066: SkeletalMeshComponent0 5
+    400068: SkeletalMeshComponent0 6
+    400070: SkeletalMeshComponent0 7
+    400072: SkeletalMeshComponent0 8
+    400074: SkeletalMeshComponent0 9
+    400076: SpotLight_1
+    400078: Table_GEO_TableCart_Frame_001_34
+    400080: Table_GEO_TableCart_Frame_002_36
+    400082: Table_GEO_TableCart_Lower_Braces_001_38
+    400084: Table_GEO_TableCart_Skeleton_40
+    400086: Table_GEO_TableCart_Upper_Braces_001_42
+    400088: Table_GEO_TableCart_Upper_Wood_Surface_001_44
+    400090: Table_GEO_TableCart_Upper_Wood_Surface_002_46
+    400092: Table_GEO_TableCart_Wheels_002_50
+    400094: Table_GEO_TableCart_Wheels_48
+    400096: Table_GEO_TableCart_Wheels_Hardware_001_52
+    400098: Table_GEO_TableCart_Wheels_Hardware_002_54
+    2000000: CameraActor_3
+    2100000: Chair_Wood
+    2100002: Fbx Default Material 0
+    2100004: Chair_Seat
+    2100006: Material__26
+    2100008: Material__25
+    2100010: Ashtray
+    2100012: Cigarette
+    2100014: Lamp1
+    2100016: WorldGridMaterial
+    2300000: Cigarette_Ashtrasy_15
+    2300002: Cigarette_Cigarette_17
+    2300004: Cube_23
+    2300006: Lamp_20
+    3300000: Cigarette_Ashtrasy_15
+    3300002: Cigarette_Cigarette_17
+    3300004: Cube_23
+    3300006: Lamp_20
+    4300000: SkeletalMeshComponent0
+    4300002: SkeletalMeshComponent0
+    4300004: SkeletalMeshComponent0
+    4300006: SkeletalMeshComponent0
+    4300008: SkeletalMeshComponent0
+    4300010: SkeletalMeshComponent0
+    4300012: SkeletalMeshComponent0
+    4300014: SkeletalMeshComponent0
+    4300016: SkeletalMeshComponent0
+    4300018: SkeletalMeshComponent0
+    4300020: SkeletalMeshComponent0
+    4300022: SkeletalMeshComponent0
+    4300024: SkeletalMeshComponent0
+    4300026: SkeletalMeshComponent0
+    4300028: Cigarette_Ashtrasy_15
+    4300030: Cigarette_Cigarette_17
+    4300032: Lamp_20
+    4300034: Cube_23
+    9500000: //RootNode
+    10800000: SpotLight_1
+    13700000: SkeletalMeshComponent0
+    13700002: SkeletalMeshComponent0 1
+    13700004: SkeletalMeshComponent0 10
+    13700006: SkeletalMeshComponent0 11
+    13700008: SkeletalMeshComponent0 12
+    13700010: SkeletalMeshComponent0 13
+    13700012: SkeletalMeshComponent0 2
+    13700014: SkeletalMeshComponent0 3
+    13700016: SkeletalMeshComponent0 4
+    13700018: SkeletalMeshComponent0 5
+    13700020: SkeletalMeshComponent0 6
+    13700022: SkeletalMeshComponent0 7
+    13700024: SkeletalMeshComponent0 8
+    13700026: SkeletalMeshComponent0 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp1
+    second: {fileID: 2100000, guid: 579a5b9a015d36e488d128ecde0c7676, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
